@@ -32,7 +32,7 @@ h1 {
   background: linear-gradient(
     90deg,
     rgb(255, 241, 200) 0%,
-    rgb(197, 131, 254) 100%
+    rgb(186, 107, 255) 100%
   );
   background-clip: text;
   -webkit-background-clip: text;
@@ -50,7 +50,7 @@ h1 {
 
   padding: 1.5rem 1.75rem;
   border-radius: 3rem;
-  background: #011020;
+  background: #03131d;
   box-shadow: 5px 5px 7px #e7bbff, -5px -5px 7px #fff0d7;
 }
 
@@ -64,7 +64,7 @@ h1 {
 
   outline: none;
   color: #fff0d7;
-  background: #011020;
+  background: #03131d;
 }
 
 .search img {
@@ -153,7 +153,7 @@ h1 {
 
 .movie div:nth-of-type(3) {
   z-index: 2;
-  background-color: #011020;
+  background-color: #03131d;
   padding: 16px 24px 24px 24px;
 
   position: absolute;
